@@ -1,0 +1,13 @@
+﻿已經開始建置於 2016/12/19 下午 07:12:17。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\ya fa\documents\visual studio 2013\Projects\GL_hw5\GL_hw5\GL_hw5.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ya fa\documents\visual studio 2013\Projects\GL_hw5\Debug\GL_hw5.exe" /INCREMENTAL /NOLOGO "C:\Program Files (x86)\ARToolKit\lib\*.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ya fa\documents\visual studio 2013\Projects\GL_hw5\Debug\GL_hw5.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ya fa\documents\visual studio 2013\Projects\GL_hw5\Debug\GL_hw5.lib" /MACHINE:X86 Debug\Source.obj
+         GL_hw5.vcxproj -> C:\Users\ya fa\documents\visual studio 2013\Projects\GL_hw5\Debug\GL_hw5.exe
+     1>專案 "C:\Users\ya fa\documents\visual studio 2013\Projects\GL_hw5\GL_hw5\GL_hw5.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:01.11
